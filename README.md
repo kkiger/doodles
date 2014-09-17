@@ -7,3 +7,5 @@ Listened to 5 Minutes of Java podcast
 Listened to Google Talk about Java: Only the Good Things
 
 Just for kicks!
+
+Super super git commit
