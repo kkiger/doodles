@@ -9,3 +9,5 @@ Listened to Google Talk about Java: Only the Good Things
 Just for kicks!
 
 Super super git commit
+
+That should have said  "super duper" git commit
